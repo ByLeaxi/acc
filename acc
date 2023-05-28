@@ -1,1 +1,1 @@
-Echo Hello
+echo Merhaba, bu bir metin dosyasıdır. > dosya.txt
